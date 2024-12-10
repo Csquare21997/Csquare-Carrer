@@ -4,3 +4,7 @@ Hi I am Charlie Chien, web devloper from Maryland, United State. I have just beg
 🔭 I’m currently working on NodeJs
 🌱 I’m currently learning Backend
 💬 Ask me anything about Frontend
+
+
+Contact information: 202-322-2248
+Email: charlie.texh@gmail.com
